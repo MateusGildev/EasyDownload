@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EasyDownload
 =======
 # EasyDownloads
@@ -40,4 +40,4 @@ extensoes = {
 ## Licença
 Este projeto está disponível sob a licença MIT.
 
->>>>>>> 34be02e (project)
+
