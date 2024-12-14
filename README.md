@@ -1,8 +1,5 @@
 
 # EasyDownload
-=======
-# EasyDownloads
-
 Automatize a organização de arquivos na pasta `Downloads`, movendo-os para subpastas específicas com base no tipo de arquivo (ex.: PDFs para "Documentos", imagens para "Imagens").
 
 ---
