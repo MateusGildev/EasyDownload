@@ -14,10 +14,12 @@ Automatize a organização de arquivos na pasta `Downloads`, movendo-os para sub
 ---
 
 ## Como Rodar
-1. Certifique-se de que as dependências estejam instaladas.
+1. Certifique-se de que as dependências estejam instaladas e estar no diretório correto.
 2. Execute o script de monitoramento:
    ```bash
-   python3 monitorar_downloads.py
+   python3 Automatiza-Downloads.py
+
+
    ```
 
 ---
